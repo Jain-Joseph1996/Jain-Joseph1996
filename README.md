@@ -1,5 +1,5 @@
-### Hi there 👋
-<h1>Hi, I'm Jain Joseph! <br/><a href="https://github.com/Jain-Joseph1996">Software Engineer</a></h1>
+
+<h1>Hi there 👋<br/> I'm Jain Joseph! <br/><a href="https://github.com/Jain-Joseph1996">Software Engineer</a></h1>
 
 
 
