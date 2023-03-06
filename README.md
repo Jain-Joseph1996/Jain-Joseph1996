@@ -7,8 +7,8 @@ I am Jain Joseph, A web developer with 3.3 years of experience working in the So
 a co-op/ internship opportunity related to my experience and field of study.
 Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-ludehsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jain-joseph-36b22114b/)](https://www.linkedin.com/in/jain-joseph-36b22114b/)
-[![Gmail Badge](https://img.shields.io/badge/-mdraanik12@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mdraanik12@gmail.com)](mailto:jainjosephmuttar@gmail.com@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-jain-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jain-joseph-36b22114b/)](https://www.linkedin.com/in/jain-joseph-36b22114b/)
+[![Gmail Badge](https://img.shields.io/badge/-jainjosephmuttar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mdraanik12@gmail.com)](mailto:jainjosephmuttar@gmail.com@gmail.com)
 
 ## ⚡ Technologies
 
@@ -27,7 +27,8 @@ Find out more about me & feel free to connect with me here:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Jain-Joseph1996&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Jain-Joseph1996&hide=stars,prs,issues,contribs)
+<!--![Github Stats](https://github-readme-stats.vercel.app/api?username=Jain-Joseph1996&hide=stars,commits,prs,issues,contribs)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jain-Joseph1996&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Jain-Joseph1996.Jain-Joseph1996)
