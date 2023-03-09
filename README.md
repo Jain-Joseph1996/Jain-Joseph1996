@@ -7,8 +7,8 @@ I am Jain Joseph, A web developer with 3.3 years of experience working in the So
 a co-op/ internship opportunity related to my experience and field of study.
 Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-jain-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jain-joseph-36b22114b/)](https://www.linkedin.com/in/jain-joseph-36b22114b/)
-[![Gmail Badge](https://img.shields.io/badge/-jainjosephmuttar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mdraanik12@gmail.com)](mailto:jainjosephmuttar@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jain-joseph-36b22114b/)](https://www.linkedin.com/in/jain-joseph-36b22114b/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jainjosephmuttar@gmail.com)](mailto:jainjosephmuttar@gmail.com)
 
 ## ⚡ Technologies
 
