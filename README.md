@@ -27,8 +27,8 @@ Find out more about me & feel free to connect with me here:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Jain-Joseph1996&hide=stars,prs,issues,contribs)
-<!--![Github Stats](https://github-readme-stats.vercel.app/api?username=Jain-Joseph1996&hide=prs,issues,contribs)-->
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Jain-Joseph1996&hide=prs,issues,contribs)
+<!--![Github Stats](https://github-readme-stats.vercel.app/api?username=Jain-Joseph1996&hide=stars,commits,prs,issues,contribs)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jain-Joseph1996&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Jain-Joseph1996.Jain-Joseph1996)
