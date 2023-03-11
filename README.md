@@ -3,8 +3,7 @@
 
 
 
-I am Jain Joseph, A web developer with 3.3 years of experience working in the Software industry, currently seeking 
-a co-op/ internship opportunity related to my experience and field of study.
+I am Jain Joseph, A web developer with 3.3 years of experience working in the Software industry.
 Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jain-joseph-36b22114b/)](https://www.linkedin.com/in/jain-joseph-36b22114b/)
