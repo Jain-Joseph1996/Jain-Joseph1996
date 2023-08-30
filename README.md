@@ -35,12 +35,14 @@ Find out more about me & feel free to connect with me here:
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>JavaScript</b>
-  - [PersonalPortfolio](https://github.com/Jain-Joseph1996/PersonalPortfolio)
-  - [FabulousMerchStore](https://github.com/Jain-Joseph1996/FabulousMerchStore)
-  - [LocalBikeRentalWebsite](https://github.com/Jain-Joseph1996/LocalBikeRentalWebsite)
+- <b>MERN Stack</b>
+  - [HealthMaticVirtualClinic](https://github.com/Jain-Joseph1996/HealthMaticVirtualClinic)
+  - [FabulousMerchStore- MERN](https://github.com/Jain-Joseph1996/fabulousMerchStore_MERN)
 - <b>Python</b>
   - [Visualeffectsservices website](https://github.com/Jain-Joseph1996/Visualeffectsservices-using-Django) <b><i>(Using Django)</b></i>
   - [Visualeffectsservices website](https://github.com/Jain-Joseph1996/VisualEffectsServices-using-Tkinter) <b><i>(Using Tkinter)</b></i>
+- <b>JavaScript</b>
+  - [FabulousMerchStore - JavaScript](https://github.com/Jain-Joseph1996/FabulousMerchStore)
+   - [LocalBikeRentalWebsite](https://github.com/Jain-Joseph1996/LocalBikeRentalWebsite)
 - <b>Java</b>
   - [Banking Desktop application](https://github.com/Jain-Joseph1996/Banking-desktop-application-Java)
