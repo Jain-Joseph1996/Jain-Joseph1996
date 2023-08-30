@@ -39,8 +39,8 @@ Find out more about me & feel free to connect with me here:
   - [HealthMaticVirtualClinic](https://github.com/Jain-Joseph1996/HealthMaticVirtualClinic)
   - [FabulousMerchStore- MERN](https://github.com/Jain-Joseph1996/fabulousMerchStore_MERN)
 - <b>Python</b>
-  - [Visualeffectsservices website](https://github.com/Jain-Joseph1996/Visualeffectsservices-using-Django) <b><i>(Using Django)</b></i>
-  - [Visualeffectsservices website](https://github.com/Jain-Joseph1996/VisualEffectsServices-using-Tkinter) <b><i>(Using Tkinter)</b></i>
+  - [Visualeffectsservices website](https://github.com/Jain-Joseph1996/VisualeffectsservicesusingDjango) <b><i>(Using Django)</b></i>
+  - [Visualeffectsservices website](https://github.com/Jain-Joseph1996/VisualEffectsServicesusingTkinter) <b><i>(Using Tkinter)</b></i>
 - <b>JavaScript</b>
   - [FabulousMerchStore - JavaScript](https://github.com/Jain-Joseph1996/FabulousMerchStore)
    - [LocalBikeRentalWebsite](https://github.com/Jain-Joseph1996/LocalBikeRentalWebsite)
